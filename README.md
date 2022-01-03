@@ -11,8 +11,6 @@ flask-2.0.2
 
 pymysql-1.0.2
 
-echart
-
 ## 目录结构
 Beike_data：贝壳网数据爬取以及存储
 - Beike.ipynb：贝壳网数据爬取
