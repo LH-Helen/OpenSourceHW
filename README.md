@@ -4,8 +4,11 @@ This is a homework for the Open Source Software Foundation course.
 
 ## 框架
 python-3.7
+
 flask-2.0.2
+
 pymysql-1.0.2
+
 echart
 
 ## 目录结构
